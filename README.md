@@ -35,9 +35,9 @@ Esquema de funcionamento:
 
 ## Conectividade facilitada (RECOMENDADO!) (Mac e Windows)
 
-Para simplificar o processo de conexão, criamos scripts de conexão: o arquivo applescript `hiper4.app` para plataforma OS X e o arquivo `arcolat.bat` para plataforma Windows.
+Para simplificar o processo de conexão, criamos scripts de conexão: o arquivo applescript `arcolat.command` para plataforma OS X e o arquivo `arcolat.bat` para plataforma Windows.
 
-Você só precisa fazer download do repositório pelo link <https://github.com/hiperorganicos/openlab-osc/archive/master.zip>, e após descompactar, acessar os diretórios `OscGroups/mac` ou `OscGroups/mac` para abrir esses scripts.
+Você só precisa fazer download do repositório pelo link <https://github.com/hiperorganicos/arcolat-osc/archive/master.zip>, e após descompactar, acessar os diretórios `OscGroups/mac` ou `OscGroups/win` para abrir esses scripts.
 
 Ambos perguntam um login de usuário para conexão à rede. Após a reposta, a conexão é estabelecida e você já pode acessar a rede OSC no seu software (PureData, Processing, Max-MSP, etc).
 
