@@ -8,17 +8,18 @@ OscGroups -> utilitarios obrigatórios para conexão no Oscgroups para envio de 
 
 ## Tabela de Conteúdos
 - Introdução ao OSC
-	- O sistema OscGroups
+- O sistema OscGroups
 - Conectividade facilitada (Recomendado) (Mac e Windows)
 - Conectividade via terminal (Linux)
 
+<hr></hr>
 
-### Introdução ao OSC (english)
+## Introdução ao OSC (english)
 
 <http://opensoundcontrol.org/introduction-osc>
 
 
-### O sistema OscGroups
+## O sistema OscGroups
 
 Usamos o OscGroups por ser um sistema que facilita o multicast de dados entre os usuários. Quando o `OscGroupClient` (cliente) está rodando conectado a um `OscGroupServer` (no caso, o servidor do NANO), todas as mensagens que você envia para seu endereço local (localhost ou 127.0.0.1) na porta 22243, são enviadas para o servidor e a todos os outros clientes conectados, assim como todas mensagens enviadas pelos outros clientes chegam pra você na porta 22244. Confira os exemplos básicos de PD de envio e recebimento de dados.
 
