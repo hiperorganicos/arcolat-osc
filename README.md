@@ -2,9 +2,16 @@
 Arquivos e instruções básicas para a conectividade OSC (Open Sound Control) do servidor.
 Baseado em https://github.com/hiperorganicos/openlab-osc
 
-node-oscgroups -> Servidor Node.js de Visualização web ARCOLAT OSC.
-exemplos -> Exemplos para recepção e envio de dados de conexão ao OscGroups.
-OscGroups -> utilitarios obrigatórios para conexão no Oscgroups para envio de dados entre multiplos usuários.
+node-oscgroups -> Servidor Node.js de Visualização web ARCOLAT OSC.  
+exemplos -> Exemplos para recepção e envio de dados de conexão ao OscGroups.  
+OscGroups -> utilitarios obrigatórios para conexão no Oscgroups para envio de dados entre multiplos usuários.  
+
+## Tabela de Conteúdos
+- Introdução ao OSC
+	- O sistema OscGroups
+- Conectividade facilitada (Recomendado) (Mac e Windows)
+- Conectividade via terminal (Linux)
+
 
 ### Introdução ao OSC (english)
 
