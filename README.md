@@ -2,9 +2,11 @@
 Arquivos e instruções básicas para a conectividade OSC (Open Sound Control) do servidor.
 Baseado em https://github.com/hiperorganicos/openlab-osc
 
-node-oscgroups -> Servidor Node.js de Visualização web ARCOLAT OSC.  
-exemplos -> Exemplos para recepção e envio de dados de conexão ao OscGroups.  
+Download do PD-Extended (PureData): https://puredata.info/downloads/pd-extended/releases/0.43.4
+<br><br>
 OscGroups -> utilitarios obrigatórios para conexão no Oscgroups para envio de dados entre multiplos usuários.  
+node-oscgroups -> Servidor Node.js de Visualização web ARCOLAT OSC.  
+exemplos -> Exemplos para recepção e envio de dados de conexão ao OscGroups.
 
 ## Tabela de Conteúdos
 - Introdução ao OSC
